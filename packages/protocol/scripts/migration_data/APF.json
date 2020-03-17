@@ -1,17 +1,32 @@
-[
+[ // 2 TODOs
   {
-    "releaseStartTime": MAINNET_LAUNCH,
+    "releaseStartTime": "NOW", // TODO
     "releaseCliffTime": 0,
-    "numReleasePeriods": Col G,
-    "releasePeriod": monthly,
-    "amountReleasedPerPeriod": Col G,
-    "revocable": Col E,
-    "beneficiary": Col C,
-    "releaseOwner": APF entity?,
-    "refundAddress": Asa,
+    "numReleasePeriods": 10,
+    "releasePeriod": 2628000.0,
+    "amountReleasedPerPeriod": "3000000.000000000000000000",
+    "revocable": false,
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb318",
+    "releaseOwner": "COINLIST", // TODO
+    "refundAddress": "0x0000000000000000000000000000000000000000",
     "subjectToLiquidityProvision": false,
     "initialDistributionRatio": 1000,
-    "canValidate": Col F,
-    "canVote": Col F
+    "canValidate": true,
+    "canVote": true
+  },
+  {
+    "releaseStartTime": "NOW",
+    "releaseCliffTime": 0,
+    "numReleasePeriods": 12,
+    "releasePeriod": 2628000.0,
+    "amountReleasedPerPeriod": "166666.666666670000000000",
+    "revocable": false,
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb319",
+    "releaseOwner": "TODO", // TODO
+    "refundAddress": "0x0000000000000000000000000000000000000000",
+    "subjectToLiquidityProvision": false,
+    "initialDistributionRatio": 1000,
+    "canValidate": true,
+    "canVote": true
   }
 ]
