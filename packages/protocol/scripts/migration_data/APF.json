@@ -6,7 +6,7 @@
     "releasePeriod": 2628000.0,
     "amountReleasedPerPeriod": "3000000.000000000000000000",
     "revocable": false,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb318",
+    "beneficiary": "0x65D976c22Cf3145A85c8F35D40735Ab5Bce3A194",
     "releaseOwner": "COINLIST", // TODO
     "refundAddress": "0x0000000000000000000000000000000000000000",
     "subjectToLiquidityProvision": false,
