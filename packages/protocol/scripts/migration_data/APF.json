@@ -1,6 +1,6 @@
-[ // 2 TODOs
+[ // 1 TODO
   {
-    "releaseStartTime": "NOW", // TODO
+    "releaseStartTime": "NOW + 2",
     "releaseCliffTime": 0,
     "numReleasePeriods": 10,
     "releasePeriod": 2628000.0,
@@ -22,7 +22,7 @@
     "amountReleasedPerPeriod": "166666.666666670000000000",
     "revocable": false,
     "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb319",
-    "releaseOwner": "TODO", // TODO
+    "releaseOwner": "0x65578A43610f2Ccb46A283f325AB47F1bd9D687C",
     "refundAddress": "0x0000000000000000000000000000000000000000",
     "subjectToLiquidityProvision": false,
     "initialDistributionRatio": 1000,

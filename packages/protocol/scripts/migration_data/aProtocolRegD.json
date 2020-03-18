@@ -1,6 +1,6 @@
-[ // TODO(alex): date of purchase = start time?
-  // Same address for beneficiary?
-  // All the orange highlighted grants?? - date is wonky
+[
+  // Same address for beneficiary? - increment by one
+  // All the orange highlighted grants?? - date is wonky 
   {
     "releaseStartTime": "12-21-2018",
     "releaseCliffTime": 31536000,
@@ -23,7 +23,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": 208333.33333333,
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb101",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -38,7 +38,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": 208333.33333333,
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb102",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -53,7 +53,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": 266666.00000000,
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb103",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -68,7 +68,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "13888.87500000",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb104",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -83,7 +83,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": "100000.00000000",
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb105",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -98,7 +98,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "2777.7708333",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb106",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -113,7 +113,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "27777.7083333",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb107",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -128,7 +128,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": "333333.00000000",
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb108",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -143,7 +143,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": "66666.00000000",
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb109",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -158,7 +158,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "694.43750000",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb110",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -173,7 +173,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "2777.77083333",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb111",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -188,7 +188,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": "150000.00000000",
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb112",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -203,7 +203,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "8333.33333333",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb113",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -218,7 +218,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": "200000.00000000",
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb114",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -233,7 +233,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "6944.43750000",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb115",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -248,7 +248,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "2777.77083333",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb116",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -263,7 +263,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "20833.33333333",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb117",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,
@@ -278,7 +278,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": "133333.00000000",
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb118",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -293,7 +293,7 @@
   //   "releasePeriod": 0,
   //   "amountReleasedPerPeriod": "375000.00000000",
   //   "revocable": TODO,
-  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+  //   "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb119",
   //   "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
   //   "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
   //   "subjectToLiquidityProvision": false,
@@ -308,7 +308,7 @@
     "releasePeriod": 2628000,
     "amountReleasedPerPeriod": "31250.00000000",
     "revocable": TODO,
-    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb100",
+    "beneficiary": "0x775a5c899fd4a7cdd54e9f41738087748cfcb120",
     "releaseOwner": "0x2045001945af0C8DDa9DC50ab652723CD85fb6DB",
     "refundAddress": "0x671D520ae3E89Ea5383A5d7162bCed79FD25CdEe", // TODO
     "subjectToLiquidityProvision": false,

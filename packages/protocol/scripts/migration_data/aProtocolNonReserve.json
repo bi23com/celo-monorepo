@@ -1,4 +1,5 @@
-[ // Two TODOS (releaseOwner/refundAddress)
+[ // Two TODOS (releaseOwner/refundAddress) releaseOwner: A Protocol Inc
+  // refundAddress: 
   {
     "releaseStartTime": "NOW",
     "releaseCliffTime": 0,
