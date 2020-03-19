@@ -1,6 +1,6 @@
 [ // 1 TODO
   {
-    "releaseStartTime": "NOW + 2",
+    "releaseStartTime": "MAINNET+2",
     "releaseCliffTime": 0,
     "numReleasePeriods": 10,
     "releasePeriod": 2628000.0,
@@ -15,7 +15,7 @@
     "canVote": true
   },
   {
-    "releaseStartTime": "NOW",
+    "releaseStartTime": "MAINNET",
     "releaseCliffTime": 0,
     "numReleasePeriods": 12,
     "releasePeriod": 2628000.0,
